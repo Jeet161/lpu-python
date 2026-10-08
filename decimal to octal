@@ -1,0 +1,9 @@
+x=23
+y=oct(x)
+print(x)
+print(y)
+print(type(x))
+print(type(y)) 
+print(repr(x))
+print(repr(y))
+print(y+" "+"is octal representation")
