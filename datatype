@@ -1,0 +1,22 @@
+a = 10
+b = 10.5
+c = "Hello"
+d = True
+e = [1, 2, 3]
+f = (1, 2, 3)
+g = {1, 2, 3}
+h = {"name": "John"}
+
+values = [a, b, c, d, e, f, g, h]
+
+for value in values:
+    print(value, "->", type(value))
+
+#basic data types in python
+age=20
+marks=85.5
+temperature=37.5
+print(age, "->", type(age))
+print(marks, "->", type(marks))
+print(temperature, "->", type(temperature))
+
